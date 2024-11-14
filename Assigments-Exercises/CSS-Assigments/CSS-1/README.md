@@ -11,5 +11,6 @@ You can use these pointers to check your work, but it's not necessary to adapt a
 
 - h1 color has a value of `#1877F2`.
 - `text-align` property is used to center both h1 and p tags.
-- You can use a class name like `fb-text` to apply similar rules on both tags.
+- Used "sans-serif" as `font-family` value for both tags.
+- Used a any class name ("fb-text-style" for example) to apply similar rules on both tags.
 - The p tag has about `20px` of value.
