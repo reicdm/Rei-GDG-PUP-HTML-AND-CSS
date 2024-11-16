@@ -20,8 +20,6 @@ The final output should be a simple HTML page displaying:
 
 1. Open the `HTML-4.html` file.
 
----
-
 ### Step 2: Create the HTML Structure 📄
 
 1. Add the basic structure of an HTML page:
@@ -35,12 +33,10 @@ The final output should be a simple HTML page displaying:
        <title>Favorites List</title>
      </head>
      <body>
-       <h1>Favorites List</h1>
+       <!-- Enter Your Code Here -->
      </body>
    </html>
    ```
-
----
 
 ### Step 3: Add the Unordered List 📝
 
@@ -55,9 +51,7 @@ The final output should be a simple HTML page displaying:
 </ul>
 ```
 
-2. Replace Item 1, Item 2, and Item 3 with actual items related to your hobby.
-
----
+2. Replace `Item 1`, `Item 2`, and `Item 3` with actual items related to your hobby.
 
 ### Step 4: Add the Ordered List 📋
 
@@ -71,3 +65,30 @@ The final output should be a simple HTML page displaying:
   <li>Step 3</li>
 </ol>
 ```
+
+2. Replace `Step 1`, `Step 2`, and `Step 3` with actual steps to start your hobby.
+
+### Step 5: Save and View Your Work 💾
+
+1. Save the `HTML-4.html` file.
+2. Open the file in your web browser to view the lists.
+
+## Example Output 🌟
+
+If your hobby is painting, your lists might look like this:
+
+**Top 3 Things I Need for Painting:**
+
+- Paintbrushes
+- Canvas
+- Acrylic Paints
+
+**Steps to Get Started:**
+
+1. Choose a painting style
+2. Gather all materials
+3. Start painting!
+
+## Need Help?
+
+If you have any questions or run into issues, don't hesitate to reach out for assistance!
