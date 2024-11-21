@@ -1,11 +1,11 @@
-# HTML Assignment 2 - Text and Headings
+# HTML #2 Assignment: Text and Headings
 
 
 ### Overview
 In this assignment, you will create an HTML file that includes various headings and paragraphs of text. The goal is to practice using HTML tags to structure content.
 You are going to create a short introduction of yourself using the included image as a guide:
 
-![textnhead](Assets\Images\ProjectImages\HTML2TextnHead.png)
+![alt text](https://i.imgur.com/8hg6MyW.png)
 
 ## Instructions
 
@@ -46,4 +46,4 @@ You are going to create a short introduction of yourself using the included imag
 ### Tips
 
 - Use the `<br>` tag to insert line breaks within paragraphs if needed.
-- You can use the `<hr>` tag to insert a straight line to separate for example, your name and section from the about you section.
+- You can use the `<hr>` tag to insert a straight line to separate for example, your name and section from the about you section a shown on the example.
