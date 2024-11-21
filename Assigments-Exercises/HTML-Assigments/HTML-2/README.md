@@ -5,7 +5,7 @@
 In this assignment, you will create an HTML file that includes various headings and paragraphs of text. The goal is to practice using HTML tags to structure content.
 You are going to create a short introduction of yourself using the included image as a guide:
 
-![textnhead](Assets\Images\ProjectImages\HTML2TextnHead.png)
+
 
 ## Instructions
 
