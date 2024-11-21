@@ -3,7 +3,7 @@
 ## Instructions
 
 ### Overview
-In this assignment, you will create an HTML file that includes various headings and paragraphs of text. The goal is to practice using HTML tags to structure content. <br>
+In this assignment, you will create an HTML file that includes various headings and paragraphs of text. The goal is to practice using HTML tags to structure content.
 You are going to create a short introduction of yourself using the included image as a guide:
 
 ![Heading](Assets\Images\ProjectImages\HTML2TextnHead.png)
