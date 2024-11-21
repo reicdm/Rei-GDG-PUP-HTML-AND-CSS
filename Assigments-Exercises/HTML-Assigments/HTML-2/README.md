@@ -6,7 +6,7 @@
 In this assignment, you will create an HTML file that includes various headings and paragraphs of text. The goal is to practice using HTML tags to structure content. <br>
 You are going to create a short introduction of yourself using the included image as a guide:
 
-![Heading](Assets\Images\ProjectImages\HTMLAssignment2HeaderSample.png)
+![Heading](Assets\Images\ProjectImages\HTML2TextnHead.png)
 
 ### Steps
 
@@ -16,8 +16,8 @@ You are going to create a short introduction of yourself using the included imag
 2. **Set Up the Basic Structure**
    - Set up the basic HTML structure with the `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` tags.
 
-3. **Add a Title**
-   - Inside the `<head>` tag, add a `<title>` tag to define the title of your HTML document.
+3. **Add Your Name**
+   - Inside the `<head>` tag, add a `<title>` tag, use your name in FN, LN format.
 
 4. **Add Headings**
    - Inside the `<body>` tag, add headings to structure your content. Use `<h1>` for the main heading, and `<h2>` to `<h6>` for subheadings as needed.
@@ -32,16 +32,17 @@ You are going to create a short introduction of yourself using the included imag
 ### Example Structure
 
 1. **Main Heading**
-   - Add a main heading using `<h1>`.
+   - Johnny Bravo | BSIT 1-5
 
 2. **Subheadings**
-   - Add subheadings using `<h2>` to `<h6>` as needed to create sections within your content.
+   - About me
+   - Hobbies
+   - etc.
 
 3. **Paragraphs**
-   - Add paragraphs of text below each heading to provide detailed information.
+   - "I am Johnny Bravo, the one-man army!"
 
 ### Additional Tips
 
 - Use the `<br>` tag to insert line breaks within paragraphs if needed.
-- Use non-breaking spaces (`&nbsp;`) to create indentation or tabbing effects.
-- Ensure your HTML file is well-structured and easy to read.
+- You can use the `<hr>` tag to insert a straight line to separate for example, your name and section from the about you section.
