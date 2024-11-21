@@ -42,7 +42,7 @@ You are going to create a short introduction of yourself using the included imag
 3. **Paragraphs**
    - "I am Johnny Bravo, the one-man army!"
 
-### Additional Tips
+### Tips
 
 - Use the `<br>` tag to insert line breaks within paragraphs if needed.
 - You can use the `<hr>` tag to insert a straight line to separate for example, your name and section from the about you section.
